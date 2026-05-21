@@ -4,3 +4,4 @@ n8n_data/database.sqlite-shm
 n8n_data/database.sqlite-wal
 n8n_data/config
 n8n_data/crash.journal
+n8n_data/*.log
